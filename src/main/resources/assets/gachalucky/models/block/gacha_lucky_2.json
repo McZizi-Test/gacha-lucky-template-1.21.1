@@ -1,0 +1,7 @@
+{
+  "parent": "gachalucky:block/gacha_lucky",
+  "textures": {
+    "0": "gachalucky:block/gacha_lucky_2",
+    "particle": "gachalucky:block/gacha_lucky_2"
+  }
+}
